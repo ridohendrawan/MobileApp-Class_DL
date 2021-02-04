@@ -1,0 +1,22 @@
+2. Lakukan pengujian terhadap app anda dengan skenario di bawah ini:
+a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button
+b. Kosongkan Angka 2, lalu klik button Bagi.
+c. Isi 0 (nol) pada Angka 2, lalu klik button Bagi.
+Tuliskan penjelasan apa yang terjadi, jika terjadi error jelaskan apa error nya dan kemungkinan
+penyebabnya, serta langkah-langkah apa yang dapat memperbaiki error tersebut untuk masing-masing
+skenario di atas. Submit Tulisan anda melalui isian pada eLearning.
+
+Penjelasan :
+
+a. Ketika field angka 1 dan angka 2 dikosongkan dan mengklik sala satu button maka akan terjadi error 
+aplikasi berhenti dengan sendirinya atau tidak dapat diproses.  Kemungkinan penyebabnya karena 
+tidak ada kondisi lain ketika angka 1 dan 2 kosong. Cara memperbaiki errornya adalah dengan melakukan 
+pengecekan isi dari kedua field angka 1 dan 2 tersebut.
+
+b. Ketika field angka 2 dikosongkan dan mengklik sala satu button maka akan terjadi error 
+aplikasi berhenti dengan sendirinya atau tidak dapat diproses.  Kemungkinan penyebabnya karena 
+tidak ada kondisi lain ketika 2 kosong. Cara memperbaiki errornya adalah dengan melakukan 
+pengecekan isi dari kedua field angka 2 tersebut.
+
+c.  Hasil dari perhitungan bagi dengan 0 di field angka 2 akan memberikan hasil infinity. 
+Pada skenario 3 dapat ditambahkan kondisi dimana pembagi dengan angka 0 akan diberikan warning. 
