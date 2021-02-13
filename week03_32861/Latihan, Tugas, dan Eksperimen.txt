@@ -1,0 +1,10 @@
+Lakukan pengujian terhadap app anda dengan skenario beberapa penambahan dan pemilihan
+beberapa item pada daftar kata di recyclerView. Beri catatan dan kesimpulan dari hasil pengujian
+app anda dan submit ke eLearning portal.
+
+Jawaban :
+
+recyclerView, Kesimpulan dari hasil pengujian app yakni pada recycler view berfungsi untuk menampilkan aplikasi karena
+hampir aplikasi mmobil biasanya memiliki suatu list tertentu dan recycler view merupakan pilihan yang tepat 
+untuk dapat membuat list tersebut dan juga recycler view menghemat resource dari smartphone yang memiliki
+manfaat ketika dijalankan akan lebih ringan.
