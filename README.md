@@ -2,4 +2,6 @@
 Repository for collect assignments from (IF633-DL) Mobile Application Programming Class.
 
 Class material list : 
-- week 01 - creating hello world
+- week 01 - Creating hello world
+- week 02 - Layout View UI Resources
+- week 03 - RecyclerView

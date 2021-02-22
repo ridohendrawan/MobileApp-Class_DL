@@ -4,7 +4,7 @@ app anda dan submit ke eLearning portal.
 
 Jawaban :
 
-recyclerView, Kesimpulan dari hasil pengujian app yakni pada recycler view berfungsi untuk menampilkan aplikasi karena
-hampir aplikasi mmobil biasanya memiliki suatu list tertentu dan recycler view merupakan pilihan yang tepat 
-untuk dapat membuat list tersebut dan juga recycler view menghemat resource dari smartphone yang memiliki
-manfaat ketika dijalankan akan lebih ringan.
+RecyclerView, Kesimpulan dari hasil pengujian app yang saya amati yakni pada recycler view berfungsi pada penampilan
+aplikasi karena hampir semua aplikasi mmobile biasanya memiliki suatu list tertentu dan recycler view merupakan pilihan yang tepat 
+untuk dapat membuat list tersebut dan juga recycler view juga dapat menghemat resource dari smartphone yang membuat ketika 
+program dijalankan akan lebih ringan.
