@@ -5,3 +5,4 @@ Class material list :
 - week 01 - Creating hello world
 - week 02 - Layout View UI Resources
 - week 03 - RecyclerView
+- week 04 - Intent, Activity, Fragment, & Passing data
