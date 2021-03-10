@@ -8,3 +8,4 @@ Class material list :
 - week 04 - Intent, Activity, Fragment, & Passing data
 - week 05 - Custom view, Canvas, Paint, & Drawing
 - week 06 - Animation & Multimedia
+- week 07 - Multimedia dan Kamera
