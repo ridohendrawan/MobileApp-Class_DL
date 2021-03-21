@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#111314"
+    >
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+        android:src="@drawable/foto_profile"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Nama : Rido Hendrawan"
+        android:textColor="#ffff"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="0dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="NIM : 00000032861"
+        android:textColor="#ffff"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="0dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="Kelas : DL"
+        android:textColor="#ffff"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="25dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="Referensi :"
+        android:textColor="#ffff"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="1. How To Make Music Player App In Android Studio Tutorial "
+        android:textColor="#ffff"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="Link : https://youtu.be/prxqc-B1h1w"
+        android:textColor="#6da1f7"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="2. How to Create Custom Toolbar in Android Studio"
+        android:textColor="#ffff"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="Link : https://youtu.be/ZF6Wt6zUdLY"
+        android:textColor="#6da1f7"
+        android:textSize="15dp"
+        />
+
+</LinearLayout>
