@@ -9,3 +9,9 @@ Class material list :
 - week 05 - Custom view, Canvas, Paint, & Drawing
 - week 06 - Animation & Multimedia
 - week 07 - Multimedia dan Kamera
+- week 08 - Storage, Saved Instance & Shared Preferences
+- week 09 - Sqlite Database & Room
+- week 10 - Background Processed
+- week 11 - Web Service
+- week 12 - Sensor
+- week 13 - Google Map API
